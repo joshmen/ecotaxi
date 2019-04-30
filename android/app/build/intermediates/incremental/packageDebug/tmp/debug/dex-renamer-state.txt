@@ -1,0 +1,4 @@
+#Mon Apr 29 16:33:25 MDT 2019
+base.0=D\:\\Cursos\\React Native\\EcoTaxi\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
